@@ -579,7 +579,7 @@ MIT License - see [LICENSE](LICENSE) for details
 
 **Nikhilesh** - nikhileshwwf@gmail.com 
 
-**Project Link:** https://github.com/Nik-lesh/dinov2-cifar10
+**Project Link:** https://github.com/Nik-lesh/DINOv2
 
 ---
 
